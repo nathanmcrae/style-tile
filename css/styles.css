@@ -1,3 +1,12 @@
+/* Typograghy */
+h1 {
+
+	font-family: "Papyrus";
+}
+h2{
+	font-family: "Papyrus";
+	color: orange;
+}
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
@@ -24,7 +33,15 @@ section {
 	width: 50px;
 }
 
-
+.color-1 {
+	background: red;
+}
+.color-2 {
+	background: blue;
+}
+.color-3 {
+	background: green;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
